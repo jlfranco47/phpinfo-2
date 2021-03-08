@@ -1,1 +1,1 @@
-# phpinfo-2
+# phpinfo-2 proyecto de pruebas
