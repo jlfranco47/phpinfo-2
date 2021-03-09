@@ -25,7 +25,7 @@ services:
      interval: 10s
      retries: 3
      start_period: 30s
-     test: php -r "print file_get_contents('http://localhost:8080/');"
+     #test: php -r "print file_get_contents('http://localhost:8080/');"
      timeout: 1s
     image: jlfranco47/phpinfo-2:latest
     networks:
