@@ -16,7 +16,7 @@ services:
         limits:
           cpus: "0.1"
           memory: 100m
-        reservation: 
+        reservations: 
           cpus: "0.1"
           memory: 100m
     expose:
